@@ -1,0 +1,11 @@
+{
+  "name": "Feishu-ChatGPT-Zhou",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [
+    "feishuAppId",
+    "feishuAppSecret",
+    "OpenAISecret"
+  ],
+  "typescript": false
+}
